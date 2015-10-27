@@ -1,0 +1,67 @@
+body.gray {
+	background-color:#c0c0c0;
+	text-align:center;
+	align-content:center;
+	align-items:center;
+	align-self:center;
+}
+
+p {
+	font-family:verdana;
+	color:black;
+}
+
+h1 {
+	font-family:verdana;
+	color:orange;
+}
+
+h2 {
+	font-family:verdana;
+	color:blue;
+}
+
+h3 {
+	font-family:verdana;
+	color:green;
+}
+
+h4 {
+	font-family:verdana;
+	color:black;
+}
+
+h5 {
+	font-family:verdana;
+	color:black;
+}
+
+h6 {
+	font-family:verdana;
+	color:black;
+}
+
+footer {
+	text-align:center;
+	align-content:center;
+	align-items:center;
+	align-self:center;
+}
+
+.center {
+	text-align:center;
+	align-content:center;
+	align-items:center;
+	align-self:center;
+}
+
+.alert {
+	font-family:verdana;
+	color:red;
+	font-style:italic;
+	font-weight:bold;
+}
+
+iframe.spotify {
+	border-style:none;
+}

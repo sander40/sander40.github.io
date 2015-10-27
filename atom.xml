@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Samson Morgan]]></title>
+  <link href="http://samiamim.github.io/atom.xml" rel="self"/>
+  <link href="http://samiamim.github.io/"/>
+  <updated>2015-09-30T18:24:37-04:00</updated>
+  <id>http://samiamim.github.io/</id>
+  <author>
+    <name><![CDATA[Samson Morgan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
