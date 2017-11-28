@@ -1,4 +1,4 @@
-# samiamim.github.io
+# sander40.github.io
 
 Just my website.
 Nothing fancy.
